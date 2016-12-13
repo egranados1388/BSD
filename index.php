@@ -17,7 +17,7 @@
 </head>
 <body>
 <img src="images/cartomicro_logo.png" width="5%" height="5%" align=center>
-Bitacora de  Desarrollo De  Software 1.0<br>
+Bitacora de  Desarrollo De  Software 1.0-<br>
 <form action=control.php method=post id=form><br>
 <table class="matetable">
 <tr><td class="labelCell">
