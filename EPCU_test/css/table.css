@@ -1,0 +1,95 @@
+.CSS_Table_Example {
+	margin:0px;padding:0px;
+	width:100%;
+	box-shadow: 10px 10px 5px #C4C1C1; 
+	border:0px solid #FF0000;
+	-moz-border-radius-bottomleft:9px;
+	-webkit-border-bottom-left-radius:9px;
+	border-bottom-left-radius:9px;
+	-moz-border-radius-bottomright:9px;
+	-webkit-border-bottom-right-radius:9px;
+	border-bottom-right-radius:9px;
+	-moz-border-radius-topright:9px;
+	-webkit-border-top-right-radius:9px;
+	border-top-right-radius:9px;
+	-moz-border-radius-topleft:9px;
+	-webkit-border-top-left-radius:9px;
+	border-top-left-radius:9px;
+}.CSS_Table_Example table{
+	width:100%;
+	height:100%;
+	margin:0px;padding:0px;
+	
+	
+}.CSS_Table_Example tr:last-child td:last-child {
+	-moz-border-radius-bottomright:9px;
+	-webkit-border-bottom-right-radius:9px;
+	border-bottom-right-radius:9px;
+}.CSS_Table_Example table tr:first-child td:first-child {
+	-moz-border-radius-topleft:9px;
+	-webkit-border-top-left-radius:9px;
+	border-top-left-radius:9px;
+}.CSS_Table_Example table tr:first-child td:last-child {
+	-moz-border-radius-topright:9px;
+	-webkit-border-top-right-radius:9px;
+	border-top-right-radius:9px;
+}.CSS_Table_Example tr:last-child td:first-child{
+	-moz-border-radius-bottomleft:9px;
+	-webkit-border-bottom-left-radius:9px;
+	border-bottom-left-radius:9px;
+}.CSS_Table_Example tr:hover td{
+	background-color:#F2F2F2;
+	background:-o-linear-gradient(bottom, #7F4F4F 5%, #534F7F 100%);	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #9CD0DB), color-stop(1, #9CD0DB) );
+	background:-moz-linear-gradient( center top, #9CD0DB 5%, #9CD0DB 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#9CD0DB", endColorstr="#9CD0DB");	background: -o-linear-gradient(top,#FC162D,#FC162D);
+	/*  Linea  arriba  color  de  seleccion       en startColorstr="#A518AA", endColorstr="#FC162D"  */
+	
+	
+}.CSS_Table_Example tr:first-child td{
+	background:-o-linear-gradient(bottom, #E1E1E1 5%, ##E1E1E1 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #E1E1E1), color-stop(1, #E1E1E1) );/* solo Chrome*/
+	background:-moz-linear-gradient( center top, #E1E1E1 5%, #E1E1E1 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#E1E1E1", endColorstr="#E1E1E1");	background: -o-linear-gradient(top,#0069d3,007fff);
+	/*  Linea  Arriba  color  encabezados  startColorstr="FC162D", endColorstr="#007fff"  */
+	
+	background-color:#E1E1E1;
+	border:1px solid #FFFFFF; /*  solo IE */
+	text-align:center;
+	border-width:0px 0px 1px 1px;
+	font-size:16px;
+	font-family:Courier New;
+	font-weight:Bold;
+	color:#999C9C;
+	
+	/* fin encabezado*/
+	
+}.CSSTableGenerator tr:first-child:hover td{
+	background:-o-linear-gradient(bottom, #645443 5%, #645443 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #645443), color-stop(1, #645443) );
+	background:-moz-linear-gradient( center top, #645443 5%, #645443 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#645443", endColorstr="#645443");	background: -o-linear-gradient(top,#645443
+,#645443);
+	background-color:#645443;
+}.CSS_Table_Example tr:first-child td:first-child{
+	border-width:0px 0px 1px 0px;
+}.CSS_Table_Example tr:first-child td:last-child{
+	border-width:0px 0px 1px 1px;
+}.CSS_Table_Example td{
+	background:-o-linear-gradient(bottom, #645443 5%, #645443 100%);	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #F3F8F8), color-stop(1, #F3F8F8) ); 
+	background:-moz-linear-gradient( center top, #F3F8F8 5%, #F3F8F8 100% );
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr="#F3F8F8", endColorstr="#F3F8F8");	background: -o-linear-gradient(top,#000000,#000000);
+	/* color celdas  arriba startColorstr="#F3F8F8", endColorstr="#F3F8F8"*/
+	background-color:#000000;
+	border:1px solid #000000;
+	border-width:0px 1px 1px 0px;
+	text-align:left;
+	padding:7px;
+	font-size:14px;
+	font-family:Courier New;
+	font-weight:normal;
+	color:#000000;
+}.CSS_Table_Example tr:last-child td{
+	border-width:0px 1px 0px 0px;
+}.CSS_Table_Example tr td:last-child{
+	border-width:0px 0px 1px 0px;
+}.CSS_Table_Example tr:last-child td:last-child{
+	border-width:0px 0px 0px 0px;
+}

@@ -1,0 +1,98 @@
+
+#horizontal_table_container
+{
+width:200px;
+height:auto;
+position:absolute;
+left:0px;
+top:25px;
+line-height:100%;
+padding-left:8PX;
+}
+
+
+#horizontal_table_titulo
+{
+width:200px;
+height:35px;
+position:absolute;
+left:0px;
+top:1px;
+line-height: 20px;
+padding-left:15PX;
+}
+
+
+table.horizontal, td.titulo
+{
+	font:9px Arial, Helvetica, sans-serif;
+	color:#555;
+	letter-spacing:1px;
+	text-align:left;
+	line-height:100%;
+}
+
+
+table.horizontal
+{
+	width:100%;
+	height:100%;
+	border-collapse:collapse;
+	margin:auto;
+}
+
+
+
+table.oc_section
+{
+	width:90%;
+	height:25%;
+	border-collapse:collapse;
+	margin:	auto;
+
+	
+}
+
+
+
+
+td.titulo , td.valor
+{
+text-align:left;padding:.5em;border:1px solid #fff;
+}
+
+td.titulo
+
+{
+	 background: -webkit-gradient(linear, left top, left bottom, from(#AC8257),to(#775314));
+	 
+	background: -moz-linear-gradient(top,#AC8257,#775314);
+	color:#F5F5F5
+   
+}
+
+td.valor
+{
+	background:#F0EDAA;
+}
+
+
+
+table.horizontal_parte , td.valor  
+{
+	font:10px Arial, Helvetica, sans-serif;
+	color:#555;
+	letter-spacing:1px;
+	text-align:left;
+	 
+}
+
+
+table.horizontal_parte
+{
+	width:238px;
+	height:auto;
+	border-collapse:collapse;
+	
+	
+}

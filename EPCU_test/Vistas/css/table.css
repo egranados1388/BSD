@@ -1,0 +1,140 @@
+/* 
+
+	TableCloth	
+	by Alen Grakalic, brought to you by cssglobe.com
+	
+*/
+
+/* general styles */
+
+table.body, td.body{
+	font:85% Arial, Helvetica, sans-serif; 
+	color:#555;
+	line-height:150%;
+	text-align:left;
+}
+table.body{width:100%;border-collapse:collapse;}
+th.body, td.body{text-align:left;padding:.5em;border:1px solid #fff;}
+th.body
+{
+	
+	background: -moz-linear-gradient(
+        top,#AC8257,#775314);
+    background: -webkit-gradient(linear, left top, left bottom, from(#AC8257),to(#775314));repeat-x;color:#fff;
+}
+
+td.body{background:#F0EDAA;}
+
+tr.body:hover
+{
+	
+    
+ /*
+        transform : scale(2);
+
+        -moz-transform : scale(2);      
+
+        -webkit-transform : scale(2);  
+
+        -o-transform : scale(2);  
+		
+		*/    
+
+   
+}
+
+
+/* tablecloth styles */
+
+tr.even td.body{background:#F7F5C8;}
+tr.odd td.body{background:#F2F0AC;}
+
+th.over, tr.even th.over, tr.odd th.over
+{
+	background:#866544;
+}
+
+th.down.body, tr.even.body th.down.body, tr.odd.body th.down.body
+{
+	background:#D98000;
+}
+
+
+
+
+ #rowstable tr.odd td.over
+{
+	background:#FFFA82;
+}
+
+
+
+#rowstable tr.even td.over
+{
+	background:#FFFA82;
+}
+
+
+
+
+td.selected.body, tr.even.body td.selected.body, tr.odd.body td.selected.body{background:#bce774;color:#555;}
+
+/* use this if you want to apply different styleing to empty table cells*/
+td.empty.body, tr.odd.body td.empty.body, tr.even.body td.empty.body{background:#fff;}
+
+
+#content{
+
+
+ width: 980px;
+ align-content:center;
+ margin-left:70px;
+ height: 450px;
+ overflow: scroll;
+}
+
+
+#content_small
+
+{
+
+
+ width:695PX;
+ height:269px;
+ padding:0px;
+ position: absolute;
+ right: 0px;
+ overflow: auto;
+ 
+ }
+
+
+
+
+table.body_80 {
+	font:80% Arial, Helvetica, sans-serif; 
+	color:#555;
+	line-height:100%;
+	text-align:left;
+	width:98%;
+	height:98%;
+	border-collapse:collapse;
+	margin:auto;
+	
+	
+	
+}
+ 
+
+table.body_cantidades {
+	font:77% Arial, Helvetica, sans-serif; 
+	color:#555;
+	line-height:100%;
+	text-align:left;
+	width:100%;
+	border-collapse:collapse;
+	
+	
+	
+}
+ 

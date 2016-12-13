@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+BODY
+{
+
+  
+  width:100%;
+  height:100%;
+  background-color:#00337A
+ 
+	/*background-repeat: no-repeat;*/
+ 
+}
+
+h3 {
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+
+
+table.horizontal, td.titulo{
+	font:90% Arial, Helvetica, sans-serif; 
+	color:#555;
+	line-height:150%;
+	text-align:left;
+}
+
+
+table.horizontal{width:100%;border-collapse:collapse;}
+
+
+td.titulo , td.valor{text-align:left;padding:.5em;border:1px solid #fff;}
+
+td.titulo
+
+{
+	 background: -webkit-gradient(linear, left top, left bottom, from(#AC8257),to(#775314));
+	 
+	background: -moz-linear-gradient(top,#AC8257,#775314);
+	color:#F5F5F5
+   
+}
+
+td.valor
+{
+	background:#F0EDAA;
+}

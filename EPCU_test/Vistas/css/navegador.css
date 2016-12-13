@@ -1,0 +1,36 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+
+img
+{
+	 border: none; -ms-interpolation-mode: bicubic; 
+	 
+}
+		
+	
+		
+		#wrapper
+		{ 
+		position:absolute; left:38%; padding-top:60px; width:450px;
+		}
+		
+		#menuwrapper
+		{ 
+		
+		position:relative; height:210px;
+		
+		}
+		#menu
+		{
+		position:absolute; bottom:0; left:0;
+		}
+				
+	    .menuitem
+		{ 
+		position:fixed relative; bottom:0px; display:inline-block;
+		 }
+				
+
+

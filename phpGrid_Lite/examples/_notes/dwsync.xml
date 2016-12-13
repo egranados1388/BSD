@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<dwsync>
+<file name="advanced_search.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="auto_fit_to_screen.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="basic_phpgrid.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="change_column_names.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="column_align.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="column_freeze.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="column_property.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="column_text_edit_dimension.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="column_width.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="custom_edit_conditon.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="custom_validation.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="data_filter.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="data_format.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="display_hyperlink.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="dynamic_hyperlink.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="edit_form_layout.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="employee.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="enable_edit_datagrid.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="filter_grid_on_pageload.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="foreign_language_characters.php" server="//sist04/Desarrollo/" local="130879518260000000" remote="130879518260000000" Dst="1" />
+<file name="grid_caption.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="grid_export.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="grid_pagination.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="hide_columns.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="horizontal_scroll.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="html_edit_control.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="hyperlink_click_event.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="image_display.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="inline_edit_action_column.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="integrated_search.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="locale_setting.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="main_test.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="multiple_datagrids.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="multiple_grids_single_dbtable.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="phpgrid_phpchart_integration.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="readonly_fields.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="required_fields.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="resize_by_mouse.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="select_multiple_rows.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="set_custom_event_handler.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="set_dimension.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="vertical_scroll.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+<file name="virtual_column.php" server="//sist04/Desarrollo/" local="130879518270000000" remote="130879518270000000" Dst="1" />
+</dwsync>
